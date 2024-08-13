@@ -20,7 +20,7 @@ import MaterialUI from '../assets/img/Material-ui.svg';
 import Scss from '../assets/img/Scss.svg';
 import Antd from '../assets/img/Antd.svg';
 import BootstrapIcon from '../assets/img/Bootstraplogo.svg';
-import CiCd from '../assets/img/CiCd.svg';
+import CiCd from '../assets/img/Cicd.svg';
 import Jwt from '../assets/img/Jwt.svg';
 import Kubernets from '../assets/img/Kubernets.svg';
 import Mongo from '../assets/img/Mongo.svg';
@@ -33,10 +33,7 @@ import Sql from '../assets/img/Sql.svg';
 import Webpack from '../assets/img/Webpack.svg';
 import Java from '../assets/img/Java.png';
 import Spring from '../assets/img/Spring.png';
-import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
 
 export const Skills = () => {
   return (
